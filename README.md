@@ -1,1 +1,1 @@
-# dspex-dex-rules
+# tslint-rules
