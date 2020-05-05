@@ -1,0 +1,20 @@
+{
+    "name": "@dex-rules/tslint-rules",
+    "scope":"@dex-rules",
+    "version": "1.1.0",
+    "description": "tslint-rules",
+    "main": "tslint.json",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/dspex/tslint-rules"
+    },
+    "keywords": [
+      "angular",
+      "tslint-rules"
+    ],
+    "author": "",
+    "license": ""
+  }
